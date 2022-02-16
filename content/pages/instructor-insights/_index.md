@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8dbde195-f51c-ed78-ae8b-c3d3d1147b23
 ---
@@ -49,22 +51,6 @@ May not be used for GIR ![](/images/educator/icon-question-gir.png) credit, but 
 ### Offered
 
 Special Seminars in Interdisciplinary Studies are offered on a variable schedule.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Gymnastics gymnasium featuring a trampoline and parallel bars in the foreground, a large blue practice mat in the middle of the space, and various incline mats and equipment in the background.]({{< resource_file f368d4d5-1c06-8b5f-26d0-d4dab5f2c5ad >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar and Exploration
-    
-    Sessions were held in a gymnasium equipped with a wide range of mats, crash pads, a ropes course, a trampoline and safey devices. 
-    
-    ###   
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
