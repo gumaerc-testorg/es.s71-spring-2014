@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 308e956a-0dcb-3481-90c0-41d53c8917f0
 resourcetype: Document
 title: Consent to Participate in Non-Biomedical Research
 uid: 7a58101a-10d6-41fd-87f5-f0471f350bcd
