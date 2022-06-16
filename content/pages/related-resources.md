@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on an MIT research study designed to
+  investigate whether a range of simple, physical exercises can help MIT students
+  with some of the challenges associated with ASD.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -13,11 +16,11 @@ This class is being offered in conjunction with an MIT research study at the [Si
 
 ### Consent Forms
 
-[Consent to Participate in Interviews (PDF)]({{< baseurl >}}/resources/mites_s71s14_cons_inter)
+{{% resource_link 971fa001-6fb5-958b-1afb-e9eda482a77b "Consent to Participate in Interviews (PDF)" %}}
 
-[Consent to Participate in Non-Biomedical Research]({{< baseurl >}}/resources/mites_s71s14_cons_resrch) [(PDF)]({{< baseurl >}}/resources/mites_s71s14_cons_resrch)
+{{% resource_link 7a58101a-10d6-41fd-87f5-f0471f350bcd "Consent to Participate in Non-Biomedical Research" %}} {{% resource_link 7a58101a-10d6-41fd-87f5-f0471f350bcd "(PDF)" %}}
 
-[Consent to Participate in the Video-Journal (PDF)]({{< baseurl >}}/resources/mites_s71s14_cons_video)
+{{% resource_link 5b02504e-599c-dba8-d366-2c104181f007 "Consent to Participate in the Video-Journal (PDF)" %}}
 
 ### Background
 

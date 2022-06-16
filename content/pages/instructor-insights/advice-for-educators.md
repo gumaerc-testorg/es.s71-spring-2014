@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Noah Riskin shares advice for educators facilitating
+  a similar course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

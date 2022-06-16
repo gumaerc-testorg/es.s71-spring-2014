@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: In this section, Noah Riskin shares his insights about assessment.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

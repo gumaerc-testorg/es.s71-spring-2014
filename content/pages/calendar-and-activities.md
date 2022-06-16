@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides a week-by-week list of the topics covered in the
+  course, with related exercises, activities, and projects. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar and Activities

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, the Experimental Study Group (ESG) at MIT, the instructor, motivation
+  for the course, structure, attendance, absences, optional gym sessions, appropriate
+  clothing, video journals, and work outside the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -69,7 +73,7 @@ Most every day we'll be moving, doing some form of exercises or physical activit
 Video Journals
 --------------
 
-You'll be expected to submit a video journal entry, no more than 5 minutes in length by the end of each week. Please see the [Assignments]({{< baseurl >}}/pages/assignments) section for more information on this assignment / project.
+You'll be expected to submit a video journal entry, no more than 5 minutes in length by the end of each week. Please see the {{% resource_link 3988c3fc-a172-3afc-3ef8-41ea48585a33 "Assignments" %}} section for more information on this assignment / project.
 
 Outside of Classwork
 --------------------
