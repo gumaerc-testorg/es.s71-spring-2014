@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: ES-S71_stat-students
 uid: 957f7c51-0986-b291-f16f-8782ea0b9f84
 ---
 Imagine showing the number of students enrolled in the course.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: ES-S71_classroom-1
 uid: f368d4d5-1c06-8b5f-26d0-d4dab5f2c5ad
 ---
 Photograph of the gymnasium used for the course.
-
