@@ -3,7 +3,7 @@ content_type: resource
 description: "A man vaults over a wall, a classic maneuver in Parkour, also called\
   \ free running. The class talked about Parkour in session 8. Image courtesy of Josa\
   \ J\xFAnior on Flickr. CC BY-NC."
-file: /courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014/76c4eddcf8062a08e9664e82ccae6e9a_es-s71s14-th.jpg
+file: /ol-ocw-studio-app/courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014/76c4eddcf8062a08e9664e82ccae6e9a_es-s71s14-th.jpg
 file_size: 4465
 file_type: image/jpeg
 image_metadata:
