@@ -20,7 +20,7 @@ Optional open gym period: 1 session/week, 1 hour/session
 Experimental Study Group (ESG)
 ------------------------------
 
-This course is part of the [Experimental Study Group](http://esg.mit.edu/), a learning community at MIT. The Experimental Study Group sponsors 5–10 six unit pass / fail seminars each spring on a variety of innovative subjects not covered in the regular curriculum. These seminars are open to all MIT students and are intended to be hands–on and experiential in nature.
+This course is part of the {{% resource_link "5205af50-fb94-477d-8065-d6c9bab1a4e2" "Experimental Study Group" %}}, a learning community at MIT. The Experimental Study Group sponsors 5–10 six unit pass / fail seminars each spring on a variety of innovative subjects not covered in the regular curriculum. These seminars are open to all MIT students and are intended to be hands–on and experiential in nature.
 
 Description
 -----------
