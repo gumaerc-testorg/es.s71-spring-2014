@@ -12,7 +12,7 @@ uid: 308e956a-0dcb-3481-90c0-41d53c8917f0
 Associated Simons Center for the Social Brain Pilot Study
 ---------------------------------------------------------
 
-This class is being offered in conjunction with an MIT research study at the {{% resource_link "56c2ea63-6f39-486c-919f-43a2a9eb403a" "Simons Center for the Social Brain" %}}: The Impact of Physical Intelligence on Autism Spectrum Disorder (ASD), which is designed to investigate whether a range of simple, physical exercises can help MIT students with some of the challenges associated with ASD. Students are not required to participate in the study of this class, but may do so if they wish.
+This class is being offered in conjunction with an MIT research study at the [Simons Center for the Social Brain](http://web.mit.edu/scsb/): The Impact of Physical Intelligence on Autism Spectrum Disorder (ASD), which is designed to investigate whether a range of simple, physical exercises can help MIT students with some of the challenges associated with ASD. Students are not required to participate in the study of this class, but may do so if they wish.
 
 ### Consent Forms
 
