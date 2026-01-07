@@ -9,8 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "A man vaults over a wall, a classic maneuver in Parkour, also called free\
     \ running. The class talked about Parkour in [session 8](/courses/es-s71-increasing-your-physical-intelligence-enhancing-your-social-smarts-spring-2014/pages/calendar-and-activities#8).\
-    \ (Image courtesy of {{% resource_link \"ed8c7f27-1c35-48ef-8d00-9683b4f9e1c2\"\
-    \ \"Josa J\xFAnior\" %}} on Flickr. CC BY-NC.)"
+    \ (Image courtesy of [Josa J\xFAnior](https://www.flickr.com/photos/josa/124836531)\
+    \ on Flickr. CC BY-NC.)"
   credit: "Image courtesy of Josa J\xFAnior on Flickr. CC BY-NC."
   image-alt: A photograph of the silhouette of a man vaulting over a wall set against
     a blue sky.
